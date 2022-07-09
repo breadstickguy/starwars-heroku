@@ -1,4 +1,4 @@
-# starwars-heroku
+# starwars-heroku - Basic app used to teach deployment processes within a bootcamp
 =======
 Testing a starwars app with Heroku
 
